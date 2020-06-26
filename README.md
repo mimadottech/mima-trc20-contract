@@ -1,4 +1,4 @@
-# TRC20 MIMA
+# TRC20
 ## Installations
 ```
 $ npm install 
@@ -10,8 +10,8 @@ install tron link extension on chrome
 ```
 $ tronbox compile --compile-all
 Add Private key to tronbox.js from shasta test network account of TronLink.
-If you want to deploy it to mainnet, change it to mainnet
 $ tronbox migrate --reset --network shasta
 
+for mainnet change mainnet and enter private key
 ```
 
